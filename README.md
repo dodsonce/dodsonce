@@ -3,8 +3,9 @@
      Specfically, board level components as I partner with manufacturers in the Greater Tampa Bay Area. I am gearing
      up to relocate to Asheville, NC. 
      
- 👀 I’m interested in learning how to build apps and programs and improve processes for production for companies. In a non-professional
-    way, I am interested in soccer, golf, cooking, hiking, and catching live music as much as I can. 
+ 👀 I’m interested in learning how to build apps and programs and improve production processes for companies. In a non-professional
+    way, I am interested in soccer, golf, cooking, hiking, and catching live music as much as I can. If I could find a path 
+    that has me improving processes for a company that blends with my personal interests, that would be my ideal situation. 
     
  🌱 I’m currently enrolled in the Triple Ten BootCamp. I have learned HTML and CSS, and am beginning JavaScript...
 
